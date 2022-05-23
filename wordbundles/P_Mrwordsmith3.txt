@@ -1,0 +1,60 @@
+FamishedBBBBvery hungry or ravenousBBBBvery hungry, starving, ravenousBBBB
+StagnantBBBBstale or motionlessBBBBlifeless, foul, staleBBBB
+BlurtBBBBto cry out or say suddenlyBBBBexclaim, let slip, blabBBBB
+SkulkBBBBto creep or prowlBBBBcreep, prowl, lurkBBBB
+BlaringBBBBloud and boomingBBBBblasting, noisy, loudBBBB
+NasalBBBBwhiny or from your noseBBBBwhiny, from your nose, high-pitchingBBBB
+HavocBBBBdamage or chaosBBBBdevastating, mayhem, chaosBBBB
+FlabbergastedBBBBshocked or amazedBBBBshocked, astonished, amazedBBBB
+ImmaculateBBBBperfect or spotlessBBBBspotless, perfect, flawlessBBBB
+RuggedBBBBrough, uneven or craggyBBBBrough, uneven or craggyBBBB
+MuffledBBBBhushed or stifledBBBBdeadened, muted, dullBBBB
+PerilousBBBBrisky or dangerousBBBBdangerous, risky, unsafeBBBB
+MouthwateringBBBBlooking or smelling deliciousBBBBscumptious, delicious, temptingBBBB
+MustyBBBBstuffy and staleBBBBdusty, stale stuffyBBBB
+GleamingBBBBshining or brightBBBBshiny, glowing, brightBBBB
+ChoppyBBBBrough or stromyBBBBrough, stromy, blusteryBBBB
+GargantuanBBBBhuge or enormousBBBBenormous, massive, hugeBBBB
+CommotionBBBBchaos or uproarBBBBdisturbance, uproar, chaosBBBB
+BlunderingBBBBgoofy or clumsyBBBBbunging, goofy, clumsyBBBB
+ExpressiveBBBBshowing your feelingsBBBBemotional, revealing, meaningfulBBBB
+DesolateBBBBmiserable, depressed and lonelyBBBBmiserable, depressed, lonelyBBBBdese, pleasant, bright
+AmbushBBBBto make a surprise attackBBBBsurprise, trap, pounceBBBB
+ConceitedBBBBvain and proudBBBBvain, prouud, arrogantBBBB
+WaryBBBBcarful or cautiousBBBBcareful, cautious, guardedBBBB
+LankyBBBBtall, thin and ungracefulBBBBtall and thin, ungraceful, ganglyBBBB
+HumbleBBBBmodest, plain and simpleBBBBmodest, simple, plainBBBBshow-off, vain
+EnviousBBBBjealous or resntfulBBBBgreen-eyed, resentful, jealousBBBB
+PromisingBBBBhopeful or encouragingBBBBencouraging, inspiring, hopefulBBBB
+ImposingBBBBgrand or impressiveBBBBawe-inspiring, impressive, grandBBBB
+IdyllicBBBBideal pr perfectBBBBideal, perfect, blissfulBBBB
+VerdantBBBBgreen and leafyBBBBgreen, leafy, lushBBBB
+ImpenetrableBBBBdense and inaccessibleBBBBinaccessible, dense, thickBBBB
+TeemingBBBBfell or crowdedBBBBswarming, crowded, fullBBBB
+NauseatingBBBBsickening or disgustingBBBBstomach-turning, sickening, disgustingBBBB
+InhaleBBBBto breathe in or eat quicklyBBBBbreathe in, eat quickly, gulpBBBB
+TranquilBBBBpeaceful or blissfully quietBBBBcalm, serene, peacefulBBBBTroubled, Excited, busy, confused, distributed, restless, hectic, agitated
+TorrentialBBBBfalling heavily or forcefully BBBBrelentless, heavy, forcefulBBBB
+Pot-BelliedBBBBhaving a round stomachBBBBfat, chubby, roundBBBB
+FragranceBBBBa sweet smell or perfumeBBBBsweet smeel, perfume, scentBBBB
+AuspiciousBBBBhopeful or encouragingBBBBencouraging, hopeful, luckyBBBB
+LashingBBBBtrashing or beatingBBBBthrashing, beating, batteringBBBB
+BackbreakingBBBBexhausting or crushingBBBBexhausting, crushing, tiringBBBB
+ScamperBBBBscurry or dashBBBBrun, scury, dashBBBB
+SquintBBBBto look though half closed eyesBBBBscrunch up eyes, narrow eyes, peerBBBB
+PresumptuousBBBBoverconfident or arrogantBBBBoverconfident, arrogant, rudeBBBB
+WillowyBBBBtall, slender and gracefulBBBBgraceful, slender, tallBBBB
+DeflatedBBBBhopeless or let downBBBBhopeless, let down, saddenedBBBB
+ExhilaratedBBBBexcited or thrilledBBBBexcited, thrilled, elatedBBBBSad, dejected, depressed
+WistfulBBBBsad, longing or nastalgicBBBBlonging, nastalgic, sadBBBB
+AffulentBBBBrich and wealthyBBBBrich, whealthy, prosperousBBBB
+ScenicBBBBbeautiful and picturesqueBBBBbeautiful, charming, picturesqueBBBB
+OvergrownBBBBwild and tangledBBBBtangled, wild, rankBBBB
+ScrumptiousBBBBtasty or deliciousBBBBmouthwatering, tasty, deliciousBBBB
+GuzzleBBBBgobble and devourBBBBgobble, devour, gulpBBBB
+VoraciousBBBBgreedy or very hungryBBBBgready, insatiable, ravenousBBBB
+SereneBBBBpeaceful or calmBBBBpeaceful, tranquil, calmBBBBturbulent, annoyed, excited
+RadiantBBBBbright, brilliant, glowingBBBBgleaming, glowing, brightBBBBgloomy, dull, sullen, unhappy
+UnwindBBBBto rest or relaxBBBBchill out, relax, restBBBB
+PeerBBBBto peak or stareBBBBpeek, stare, gazeBBBB
+OverjoyedBBBBdelighted and gleefulBBBBdelighted, gleeful, elatedBBBB

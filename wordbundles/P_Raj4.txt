@@ -1,0 +1,59 @@
+MonotonousBBBBdull, boring, tedious, repetitive BBBBBBBBinteresting
+TransparentBBBBcan be seen through or easily understoodBBBBBBBBOpaque
+OpaqueBBBBUnclear, cannot be seen throughBBBBBBBBtransparent, clear
+ReliableBBBBTrustworthy, won't let you downBBBBBBBBundependable, unreliable
+TrivialBBBBnot importantBBBBCommonplace, frivolous, immaterial, insignificant, irrelevant, negligible, paltry, superficial, trite, unimportantBBBBConsequential, essential, important, Major, Meaningful, Necessary, Relevant, Significant, Substantial, Worthwhile
+TangibleBBBBSomething that is real or definite, able to be touchedBBBBBBBBintangible (an idea) or not clear
+ShrewdBBBBClever, cunning or craftyBBBBBBBBCareless
+PermanentBBBBLasts foreverBBBBEnduring, LastingBBBBtemporary, changing
+DrabBBBBdull, lifeless and uninterestingBBBBBBBBBright, Exciting
+FeebleBBBBVery week or frailBBBBWeak, Frail, Infirm, Sickly, Ineffective, Ineffectual, InadequateBBBBStrong, Fit, Healthy, Effective, Efficient, Expert
+FerociousBBBBSavage, Fierce or cruelBBBBBBBBTame, gentle
+IntermittentBBBBsomething that happens at intervalBBBBSporadic, PeriodicBBBBContinual, Regular
+ReluctantBBBBUnwilling or hesitant to somethingBBBBBBBBWilling
+WearyBBBBtired, fatiguedBBBBBBBBenergetic, lively
+ThriveBBBBto do well, prosper, developBBBBfade, shrivelBBBB
+TautBBBBtight rope, stiff or tenseBBBBBBBBrelaxed, slack
+AdvocateBBBBto support or advocate somethingBBBBBBBBoppose
+SereneBBBBPeaceful, Tranquil or calmBBBBpeaceful, tranquil, calmBBBBturbulent, annoyed, excited
+VacantBBBBNo occupied, emptyBBBBemotionless, empty, blankBBBBOccupied
+SeizeBBBBto grab or takeBBBBBBBBrelease, free
+ExteriorBBBBon the outsideBBBBBBBBinterior
+DemolishBBBBto knock something down. Destroy, wreakBBBBgobble up, annihilate, destroyBBBBrestore
+EccentricityBBBBUnusual, Bizarre, quirkyBBBBBBBBConventional, normal
+CrankyBBBBin a bad mood, cross or irritableBBBBBBBB
+BroadBBBBWide BBBBexpansiveBBBBnarrow
+AdequateBBBBenough, sufficient an ample amountBBBBBBBBinsufficient, not enough
+AdamantBBBBSure, firm, unchangingBBBBBBBBFlexible, lenient
+ConsecutiveBBBBSuccessive, in sequenceBBBBBBBBIntermittent
+IntolerantBBBBprejudiced, impatient, bigotedBBBBBBBBimpartial, accepting, understanding
+MagnifyBBBBto make largerBBBBexpand, enlarge, exaggerateBBBBminimise, reduce
+LureBBBBto attract, entice or seduceBBBBBBBBrepel
+InternalBBBBinside of somethingBBBBinner, insideBBBBouter, outside, external
+ConcurBBBBto agree with somethingBBBBBBBBdisagree
+ContentedBBBBhappy, satisfied, pleaseBBBBsatisfied, comfortableBBBBunhappy, dissatisfied
+ColossalBBBBhuge, enormous, immenseBBBBBBBBtiny, trivial
+AuthenticBBBBReal, genuineBBBBBBBBCopy, fake, counterfeit
+AmateurBBBBa beginner, a novice,. Does not accept money to participateBBBBBBBBProfessional
+ProfessionalBBBBsomeone who has an occupation they are paid to do. An expertBBBBBBBBamateur, unskilled
+MinuteBBBBsixty-seconds of time OR something that is very smallBBBBBBBB
+AbbreviateBBBBit shorten or condenseBBBBBBBB
+PlausibleBBBBSomething that is possible, believable, logicalBBBBBBBBunbelievable
+ProhibitBBBBto forbid, not allow, to restrictBBBBForbid, ban, bar, constrain, outlaw, impede, proscribe, restrainBBBBallow, permit
+ProfitBBBBto gain, to benefitBBBBBBBBLose, loss
+RatifyBBBBto approve, confirm or endorse somethingBBBBBBBBrefuse, Veto
+SpontaneousBBBBSomething you do instinctively, naturally, automatically without thinkingBBBBBBBBplanned, rehearsed
+DeductBBBBSubtract or removeBBBBBBBBAdd
+ConsiderateBBBBthoughtful, caring, SympatheticBBBBBBBBSelfish, Thoughtless
+DiluteBBBBto thin down or weakenBBBBBBBBconcentrated
+ConfessBBBBadmit or acknowledge somethingBBBBBBBBdeny
+NegligentBBBBcareless, without careBBBBBBBBSloppy, indifferent
+CondenseBBBBto compress or concentrate somethingBBBBBBBBexpand, spread out
+MandatoryBBBBsomething that is compulsory (has to be done)BBBBRequiredBBBBOptional
+RefuteBBBBto prove someone wrong. Contradict, opposeBBBBBBBBAgree, concur
+SluggishBBBBSlow, lethargic, without energyBBBBslow, lazy, lifelessBBBBquick, speedy
+SufficientBBBBto have enough, plenty ampleBBBBBBBBinsufficient, lacking, meagre
+ValiantBBBBCourageous, brave or heroicBBBBBBBBfearful, cowardly
+VulgarBBBBOffensive, rudeBBBBBBBBPleasant, polite
+SurplusBBBBExcess, extra, left-overBBBBBBBBnot enough, lack of
+TenderBBBBfragile, soft, delicate, affectionate OR sore and painfulBBBBBBBB
